@@ -1,5 +1,7 @@
 <script setup lang="ts"></script>
 
-<template>Some content</template>
+<template>
+  <h4>Page Statistic</h4>
+</template>
 
 <style scoped></style>
